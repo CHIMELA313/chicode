@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "firstName": "Raphael",
+      "lastName": "Sijaona",
+      "email": "sijaona@gmail.com",
+      "mobile": "234589",
+      "salary": "500,000"
+    },
+    {
+      "id": 8,
+      "firstName": "Erasto",
+      "lastName": "Daudi",
+      "email": "chenya@gmail.com",
+      "mobile": "07543890567",
+      "salary": "700,900"
+    },
+    {
+      "id": 9,
+      "firstName": "Juma",
+      "lastName": "Hassan",
+      "email": "hassani@gmail.com",
+      "mobile": "909888888",
+      "salary": "9,000,000"
+    },
+    {
+      "id": 2,
+      "firstName": "Mwanahawa",
+      "lastName": "Ally",
+      "email": "mchemo@gmail.com",
+      "mobile": "908769090",
+      "salary": "5,000,000"
+    },
+    {
+      "id": 10,
+      "firstName": "Jamali",
+      "lastName": "Kasimu",
+      "email": "kasimu@gmail.com",
+      "mobile": "0789654789",
+      "salary": "245,000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
